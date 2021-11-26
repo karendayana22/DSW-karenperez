@@ -1,21 +1,8 @@
-header{
-    background-color:#F5C6A5;
-}
 nav{
-    background-color: #FF7777;
-}
-section{
-    background-color: #A2416B;
-    grid-column: 1/4 ;
-}
-aside{
-    background-color:honeydew;
-    grid-column: 4/5 ;
-}
-footer{
-    background-color: darksalmon;
-}
-main{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: 0;
+    padding: 0;
+    background:url(fondo.jpg);
+    background-size:cover ;
+    background-position: center;
+    font-family: sans-serif;
 }
